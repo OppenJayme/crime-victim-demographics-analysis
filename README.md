@@ -65,3 +65,42 @@ Average age statistics were computed from the dataset after filtering by both ar
 - Time series graphs of crime incidents by year, gender, and area  
 - Comparative bar charts for racial and descent-based victim statistics  
 - Aggregated averages for victim age in high-risk areas
+
+## Key Findings
+
+- **Top Crime Areas:**  
+  The five most crime-prone areas in Los Angeles are **Central**, **77th Street**, **Pacific**, **Southwest**, and **Hollywood**, with Central reporting over 60,000 incidents.
+
+- **Yearly Crime Distribution:**  
+  Most areas experienced a peak in crime during **2022**, with gradual changes observed in 2023. Distribution varies slightly across districts, but general trends remain consistent.
+
+- **Victim Racial Group Analysis:**  
+  - **Hispanic** individuals accounted for **34.8%** of reported incidents.  
+  - **White** individuals made up **23.3%**, followed by **Black** individuals at **16%**.  
+  - Other groups showed smaller but significant presence depending on the district.
+
+- **Gender-Based Victimization Trends (2020–2024):**  
+  - **Male** victims consistently had the highest counts each year.  
+  - **Female** victimization followed similar patterns but in slightly lower volumes.  
+  - **Non-Binary** individuals were also represented, particularly in Central and Wilshire.
+
+- **Most Affected Group and Area:**  
+  The most affected group was **Hispanic descent in Central Los Angeles**, based on incident concentration.
+
+- **Victim Age Statistics:**  
+  The **average age** for victims in the most affected descent and area is **approximately 31.5 years**, with most incidents occurring in the **19–29** and **30–44** age ranges.
+
+- **Bonus Insight – Common Crime Types by Descent:**  
+  - **Hispanic:**  
+    - Battery – Simple Assault: 37,460  
+    - Assault with a Deadly Weapon / Aggravated Assault: 26,495  
+    - Intimate Partner Assault: 24,650  
+  - **White:**  
+    - Burglary from Vehicle: 19,321  
+    - Burglary: 17,634
+    - Theft of Identity: 16,881 
+  - **Black:**  
+    - Battery – Simple Assault: 14,631
+    - Aggravated Assault: 14,387  
+    - Theft of Identity: 13,481
+
